@@ -12,6 +12,5 @@ It is Fork of [TwitterJSClient](https://github.com/BoyCook/TwitterJSClient)
 npm install twitter-util
 
 ```
-## Docs
 
-Refer [TwitterJSClient](https://github.com/BoyCook/TwitterJSClient)
+Refer [TwitterJSClient](https://github.com/BoyCook/TwitterJSClient) for Usage.
