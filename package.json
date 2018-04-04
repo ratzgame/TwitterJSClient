@@ -1,8 +1,13 @@
 {
     "name":"twitter-util",
     "description":"Twitter JS Client",
-    "version":"0.0.50",
+    "version":"0.0.7",
     "directories" : { "lib": "./lib" },
+    "keywords": [
+        'twitter',
+        'twitter oauth',
+        'twitter node api'
+    ],
     "dependencies":{
         "qs": "5.2.0",
         "oauth": "*"
