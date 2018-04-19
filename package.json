@@ -1,7 +1,7 @@
 {
     "name":"twitter-util",
     "description":"Twitter JS Client",
-    "version":"0.0.7",
+    "version":"0.5.0",
     "directories" : { "lib": "./lib" },
     "keywords": [
         "twitter",
